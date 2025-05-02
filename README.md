@@ -11,7 +11,7 @@ Preinstallation Requirements:
 If running MacOS/Linux, have coreutils installed. 
 This can be done with the following command:
 
-brew install coreutils
+`brew install coreutils`
 
 Quickstart
 ==========
