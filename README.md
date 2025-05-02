@@ -6,6 +6,11 @@ from images. It allows histogram and D3-based visual search, free text search an
 performs image similarity metrics using computer vision techniques and metadata-techniques (e.g., 
 [Jaccard Similarity](http://github.com/chrismattmann/tika-img-similarity)).
 
+Preinstallation Requirements:
+============
+If running MacOS/Linux, have coreutils installed. 
+This can be done with the following command:
+
 Quickstart
 ==========
 ImageSpace can be spun up quickly by means of Docker containers, see the [ImageSpace Quickstart](https://github.com/nasa-jpl-memex/image_space/wiki/Quick-Start-Guide-with-ImageCat).
