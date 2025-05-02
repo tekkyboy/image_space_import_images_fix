@@ -8,7 +8,7 @@ performs image similarity metrics using computer vision techniques and metadata-
 
 Preinstallation Requirements:
 ============
-If running MacOS/Linux, have coreutils installed. 
+If running MacOS/Linux, coreutils needs to be installed for import_images.sh to run. 
 This can be done with the following command:
 
 `brew install coreutils`
